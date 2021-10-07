@@ -18,7 +18,6 @@ public class Car {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;	
 	private String model;
-	private String collor;
-	
+	private String collor;	
 
 }
